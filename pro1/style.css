@@ -1,0 +1,33 @@
+
+.my-nav {
+  background: #FF6600
+}
+
+.my-nav ul {
+  margin: 10px 0;
+  float:right;
+}
+
+.navbar-brand {
+  margin:10px 0;
+
+}
+
+.carou-contain {
+  
+  margin:0 auto;
+}
+
+.item, img {
+    margin:0px auto;
+    padding-right: 10px;
+    padding-left:  10px;
+}
+.title {
+  text-align: center;
+  margin: 100px 0px;
+}
+
+td img {
+  width:50px;
+}
